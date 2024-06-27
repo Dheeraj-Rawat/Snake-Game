@@ -24,12 +24,13 @@ Welcome to the Snake Game! This classic game is built using JavaScript, HTML, an
 To run this project locally, follow these steps:
 - Clone this repository to your local machine.
 - Navigate to the project directory.
+- Open the index.html file in your web browser.
 
 ## Screeshot
 ![screeshot](https://github.com/Dheeraj-Rawat/Snake-Game/assets/141765900/0d4fa0ed-5509-43df-a747-4633c92e0e2e)
 
 
-- Open the index.html file in your web browser.
+
 
 ## Usage
 - Use the arrow keys on your keyboard to control the direction of the snake.
